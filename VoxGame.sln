@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{5FDD0DEA-6C49-9B59-F72C-FC860768CB5A}") = "VoxGame", "Assembly-CSharp-firstpass.csproj", "{99345308-2F91-9BCE-F386-779213C1B896}"
+EndProject
+Project("{5FDD0DEA-6C49-9B59-F72C-FC860768CB5A}") = "VoxGame", "Assembly-CSharp.csproj", "{99AC8034-36AD-33BC-A0BB-4382ADA6A28B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99345308-2F91-9BCE-F386-779213C1B896}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99345308-2F91-9BCE-F386-779213C1B896}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99345308-2F91-9BCE-F386-779213C1B896}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99345308-2F91-9BCE-F386-779213C1B896}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99AC8034-36AD-33BC-A0BB-4382ADA6A28B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99AC8034-36AD-33BC-A0BB-4382ADA6A28B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99AC8034-36AD-33BC-A0BB-4382ADA6A28B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99AC8034-36AD-33BC-A0BB-4382ADA6A28B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
